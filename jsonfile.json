@@ -1,0 +1,24 @@
+{
+    "first_name": "sasha",
+    "last_name": "baron cohen",
+    "dob": "08 jul 1986",
+    "spose": {"first_name":"isla",
+               "last_name":"fisher",
+                "age":30 },
+    "childeren": 
+       [{"name":"olive","age":11},
+        {"name":"Elula","age":8},
+        {"name":"MontGomery","age":4}],
+    "married":true,
+    "pet_name":null
+  },
+
+  {
+    "action":"save_to-database",
+    "firstname":"alireza",
+    "lastname":"aliabadi",
+    "email":"alireza@email.com",
+    "course": "jsoncourse",
+    "enrolfee": 55,
+    "paid": false
+  }
